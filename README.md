@@ -7,7 +7,7 @@ This Capstone project* is a political forecasting study for educational purposes
 
 
 ### Next steps:
-- Include more indicators
+- Include more indicators for training and improve accuracy
 - Publish the map on heroku
 
 
